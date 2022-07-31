@@ -49,14 +49,12 @@ códigos de forma pythônica:
          import os
 
      caso tenha muitos imports de um mesmo pacote, fazer:
-         from types import {
+         from types import (
              StringType,
              ListType,
              SetType,
              OutroType
-         }
+         )
 
      Imports devem ser colocados no início do arquivo, depois de comentários ou docstrings e antes de variáveis globais
 """
-
-import this

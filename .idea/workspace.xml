@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="" />
+    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/and_or_not_is.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_else_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pep8.py" beforeDir="false" afterPath="$PROJECT_DIR$/pep8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex06.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex08.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex14.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex15.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex16.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex17.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex18.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex19.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex20.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex21.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex22.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex23.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex24.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex25.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex26.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex27.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex28.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex30.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex31.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex32.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex33.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex34.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex35.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex36.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex37.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex38.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex39.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex40.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex41.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex42.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex43.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex44.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex46.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex47.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex48.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex49.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex50.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex51.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex52.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seção 4/ex53.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios (int, float)/ex53.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -21,6 +87,7 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CPu9Jux9ExKvkTT8Oybrm7WiDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +96,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -37,8 +105,8 @@
       <recent name="C:\Users\maria\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nota">
-    <configuration name="ex49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex05">
+    <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seção 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seção 4/ex49.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seção 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seção 4/ex51.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seção 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seção 4/ex52.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seção 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seção 4/ex53.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\maria\PycharmProjects\guppe\exercícios (estrut. logicas)\ex04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nota" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seção 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seção 4/nota.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nota" />
-        <item itemvalue="Python.ex53" />
-        <item itemvalue="Python.ex52" />
-        <item itemvalue="Python.ex51" />
-        <item itemvalue="Python.ex49" />
+        <item itemvalue="Python.ex05" />
+        <item itemvalue="Python.ex03" />
+        <item itemvalue="Python.ex04" />
+        <item itemvalue="Python.ex02" />
+        <item itemvalue="Python.ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +231,16 @@
       <updated>1658716387892</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
