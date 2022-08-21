@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="mais exercícios de if,else,elif feitos" />
+    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="mais exercícios de if,else,elif feitos">
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex17/lib/funções/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex17/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex17/sistema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_logicas/ex22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (estrut. logicas)/ex15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex06.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex08.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex14.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex15.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex16.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex17.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex18.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex19.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex20.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex21.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex22.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex23.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex24.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex25.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex26.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex27.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex28.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex30.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex31.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex32.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex33.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex34.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex35.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex36.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex37.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex38.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex39.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex40.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex41.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex42.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex43.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex44.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex46.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex47.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex48.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex49.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex50.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex51.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex52.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios (int, float)/ex53.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_int_float/ex53.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +134,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\PycharmProjects\guppe\exercícios (estrut. condicionais)" />
       <recent name="C:\Users\maria\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex15">
-    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex21">
+    <configuration name="ex18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_logicas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_logicas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_logicas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_logicas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios (estrut. logicas)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios (estrut. logicas)/ex15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_logicas/ex17/sistema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex15" />
-        <item itemvalue="Python.ex14" />
-        <item itemvalue="Python.ex13" />
-        <item itemvalue="Python.ex12" />
-        <item itemvalue="Python.ex11" />
+        <item itemvalue="Python.ex21" />
+        <item itemvalue="Python.ex20" />
+        <item itemvalue="Python.ex19" />
+        <item itemvalue="Python.ex18" />
+        <item itemvalue="Python.sistema" />
       </list>
     </recent_temporary>
   </component>
