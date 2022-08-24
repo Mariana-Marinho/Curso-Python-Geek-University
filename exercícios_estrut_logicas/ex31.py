@@ -8,9 +8,9 @@ saida_horas = int(input('você saiu de que horas? '))
 saida_minutos = int(input('quantos minutos? '))
 minutos = (entrada_horas+entrada_minutos) - (saida_horas+saida_minutos)
 horas = ceil(minutos/60)
-
-entrada = input('de que horas você entrou? HH:MM\n').strip().split()
-for time in entrada:
-    hour, minu = [int(i) for i in time.split(":")]
-    print(hour, "hours and", minu, "minutes")
-    print(classmethod(hour))
+if horas in range(1, 3):
+    print(f'você irá pagar {horas} reais')
+elif horas in range(3, 5):
+    print(f'você irá pagar {(horas-2)*1.40 + 2} reais')
+else:
+    print(f'você irá pagar {(horas-4)*2 + 4.8} reais')

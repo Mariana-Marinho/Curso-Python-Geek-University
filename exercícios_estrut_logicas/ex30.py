@@ -16,7 +16,7 @@ def data(dia, mes, ano):
                 return True
             else:
                 return False
-        elif mes == 1 or mes == 3 or mes == 5 or mes == 7 or mes == 9 or mes == 11:
+        elif mes in (1, 3, 5, 7, 9, 11):
             if dia in range(1, 31):
                 return True
             else:
