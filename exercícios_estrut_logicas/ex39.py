@@ -1,14 +1,17 @@
 """
-Faça um programa que calcule o retorno de um investimento
-financeiro fazendo as contas mês a mês, sem usar a fórmula de
-juros compostos
-} O usuário deve informar quanto será investido por mês e qual será a
-taxa de juros mensal
-} O programa deve informar o saldo do investimento após um ano (soma
-das aplicações mês a mês considerando os juros compostos), e
-perguntar ao usuário se ele deseja que seja calculado o ano seguinte,
-sucessivamente
-} Por exemplo, caso o usuário deseje investir R$ 100,00 por mês, e tenha
-uma taxa de juros de 1% ao mês, o programa forneceria a seguinte
-saída:
+Faça um programa que calcule o retorno de um investimento com juros compostos
 """
+saldo = mes = 0
+c = 1
+investir = float(input('quanto você investe por mês? '))
+taxa = float(input('qual a taxa de juros mensal? '))/100
+while True:
+    mes += 12
+    for t in range(0, mes):
+        saldo += investir * (1+taxa)**t
+    print(f'o saldo de {c} anos foi igual a {saldo:8.2f} reais')
+    e = input('deseja calcular o próximo ano? [S/N] ').upper().strip()[0]
+    if e == 'N':
+        break
+    else:
+        c += 1
