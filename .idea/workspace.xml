@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="exercícios otimizados: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30" />
+    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="exercícios otimizados: 31, 32, 33, 34, 35">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_estrut_repetição/ex32.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_estrut_repetição/ex33.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex33.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,28 +50,7 @@
       <recent name="C:\Users\maria\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex31">
-    <configuration name="ex24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_repetição" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex24.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex32">
     <configuration name="ex26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,13 +135,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_estrut_repetição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex32" />
         <item itemvalue="Python.ex31" />
         <item itemvalue="Python.ex29" />
         <item itemvalue="Python.ex28" />
         <item itemvalue="Python.ex26" />
-        <item itemvalue="Python.ex24" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661912917046</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exercícios otimizados: 31, 32, 33, 34, 35">
+      <created>1662000039037</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662000039037</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +293,7 @@
     <MESSAGE value="exercícios feitos: 16, 17, 18, 19 ,20" />
     <MESSAGE value="exercícios otimizados: 20" />
     <MESSAGE value="exercícios otimizados: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios otimizados: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30" />
+    <MESSAGE value="exercícios otimizados: 31, 32, 33, 34, 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios otimizados: 31, 32, 33, 34, 35" />
   </component>
 </project>
