@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="exercícios otimizados: 38">
-      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex45.py" afterDir="false" />
+    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38">
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercícios_estrut_repetição/ex38.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_estrut_repetição/ex38.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
       <recent name="C:\Users\maria\PycharmProjects\guppe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex45">
-    <configuration name="ex38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex49">
+    <configuration name="ex46" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex47.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex48.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex44.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex45" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex50" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex45.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_estrut_repetição/ex50.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex45" />
-        <item itemvalue="Python.ex44" />
-        <item itemvalue="Python.ex42" />
-        <item itemvalue="Python.ex38" />
-        <item itemvalue="Python.ex40" />
+        <item itemvalue="Python.ex49" />
+        <item itemvalue="Python.ex50" />
+        <item itemvalue="Python.ex48" />
+        <item itemvalue="Python.ex47" />
+        <item itemvalue="Python.ex46" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662174544963</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38">
+      <created>1662251076112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662251076112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,6 +336,7 @@
     <MESSAGE value="exercícios otimizados: 33, 34, 35" />
     <MESSAGE value="exercícios feitos: 36, 37, 38, 39, 30&#10;exercícios otimizados: 34, 35" />
     <MESSAGE value="exercícios otimizados: 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios otimizados: 38" />
+    <MESSAGE value="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38" />
   </component>
 </project>
