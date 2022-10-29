@@ -52,7 +52,19 @@ Listas []
         lista.pop(2)
             remove o elemento desse index
 
-        lista.
+        lista.clear()
+            zera a lista
+
+        string.split()
+            a string vira uma lista, por padrão o split separa os elementos pelo espaço
+
+        string.split(',')
+            vai separar os elementos por vírgula
+
+        ' '.join(lista)
+            converter uma lista em string com um espaço no meio dos elementos
+
+
 
     - Pode somar listas
 
