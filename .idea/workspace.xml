@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="exercícios feitos: 04, 05, 06">
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex13.py" afterDir="false" />
+    <list default="true" id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15_listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula15_listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_coleções/ex13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,38 +40,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/exercícios_coleções/ex21.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2CPu9Jux9ExKvkTT8Oybrm7WiDy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2Lw5HmqQexBvQdqYFgxYsxSGdma" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\maria\PycharmProjects\guppe\exercícios_int_float" />
-      <recent name="C:\Users\maria\PycharmProjects\guppe\exercícios (estrut. condicionais)" />
-      <recent name="C:\Users\maria\PycharmProjects\guppe" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.ex13">
-    <configuration name="ex08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
+}]]></component>
+  <component name="RunManager" selected="Python.ex15">
+    <configuration name="ex15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -69,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,8 +83,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
+    <configuration name="ex26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -90,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,8 +104,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
+    <configuration name="ex27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,8 +125,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
+    <configuration name="ex28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -132,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,8 +146,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="guppe" />
+    <configuration name="ex29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -153,7 +158,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="guppe_curso" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,214 +190,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex13" />
-        <item itemvalue="Python.ex12" />
-        <item itemvalue="Python.ex11" />
-        <item itemvalue="Python.ex10" />
-        <item itemvalue="Python.ex08" />
+        <item itemvalue="Python.ex15" />
+        <item itemvalue="Python.ex29" />
+        <item itemvalue="Python.ex28" />
+        <item itemvalue="Python.ex27" />
+        <item itemvalue="Python.ex26" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9976ae96-2287-4c67-bb17-86f667261f2c" name="Changes" comment="" />
-      <created>1658716387892</created>
+      <changelist id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="" />
+      <created>1676769218853</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658716387892</updated>
+      <updated>1676769218853</updated>
     </task>
-    <task id="LOCAL-00001" summary="git commit">
-      <created>1659293065554</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1659293065554</updated>
-    </task>
-    <task id="LOCAL-00002" summary="mais exercícios de if,else,elif feitos">
-      <created>1659318712895</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1659318712895</updated>
-    </task>
-    <task id="LOCAL-00003" summary="exercícios feitos: 16, 17, 18, 19, 20, 21, 22&#10;exercícios otimizados: 1 , 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15">
-      <created>1661048691566</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1661048691566</updated>
-    </task>
-    <task id="LOCAL-00004" summary="exercícios feitos: 23, 24, 25, 26, 27, 28, 29, 20&#10;exercícios otimizados: 22">
-      <created>1661222167634</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1661222167634</updated>
-    </task>
-    <task id="LOCAL-00005" summary="exercícios feitos: 31, 32&#10;exercícios otimizados: 28, 29, 30&#10;mudou de local: ex45">
-      <created>1661266319678</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1661266319678</updated>
-    </task>
-    <task id="LOCAL-00006" summary="exercícios feitos: 33, 34, 35, 36, 37, 38, 39&#10;exercícios otimizados: 30, 31, 32">
-      <created>1661308178658</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1661308178658</updated>
-    </task>
-    <task id="LOCAL-00007" summary="exercícios feitos: 01, 02, 03, 04, 05&#10;exercícios otimizados: 39">
-      <created>1661394992715</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1661394992715</updated>
-    </task>
-    <task id="LOCAL-00008" summary="exercícios feitos: 06, 07, 08, 09, 10">
-      <created>1661660677679</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1661660677680</updated>
-    </task>
-    <task id="LOCAL-00009" summary="exercícios feitos: 11, 12, 13, 14, 15">
-      <created>1661662088072</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1661662088073</updated>
-    </task>
-    <task id="LOCAL-00010" summary="exercícios feitos: 16, 17, 18, 19 ,20">
-      <created>1661823404653</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1661823404653</updated>
-    </task>
-    <task id="LOCAL-00011" summary="exercícios otimizados: 20">
-      <created>1661823610194</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1661823610194</updated>
-    </task>
-    <task id="LOCAL-00012" summary="exercícios otimizados: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30">
-      <created>1661912917046</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1661912917046</updated>
-    </task>
-    <task id="LOCAL-00013" summary="exercícios otimizados: 31, 32, 33, 34, 35">
-      <created>1662000039037</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1662000039037</updated>
-    </task>
-    <task id="LOCAL-00014" summary="exercícios otimizados: 32, 33">
-      <created>1662001361631</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1662001361631</updated>
-    </task>
-    <task id="LOCAL-00015" summary="exercícios otimizados: 33, 34, 35">
-      <created>1662085675923</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1662085675923</updated>
-    </task>
-    <task id="LOCAL-00016" summary="exercícios feitos: 36, 37, 38, 39, 30&#10;exercícios otimizados: 34, 35">
-      <created>1662173699633</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662173699633</updated>
-    </task>
-    <task id="LOCAL-00017" summary="exercícios otimizados: 38">
-      <created>1662174544963</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1662174544963</updated>
-    </task>
-    <task id="LOCAL-00018" summary="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38">
-      <created>1662251076112</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1662251076112</updated>
-    </task>
-    <task id="LOCAL-00019" summary="exercícios feitos: 46, 47, 48, 49, 50">
-      <created>1662262973480</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1662262973480</updated>
-    </task>
-    <task id="LOCAL-00020" summary="exercícios feitos: 51, 52, 53, 54, 55, 56, 57, 58, 59, 60">
-      <created>1662328874239</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662328874239</updated>
-    </task>
-    <task id="LOCAL-00021" summary="exercícios feitos: 01, 02, 03&#10;exercícios otimizados: 60&#10;pastas renomeadas: aulas">
-      <created>1666831920986</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1666831920986</updated>
-    </task>
-    <task id="LOCAL-00022" summary="exercícios feitos: 04, 05, 06">
-      <created>1666881259798</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1666881259798</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="git commit" />
-    <MESSAGE value="mais exercícios de if,else,elif feitos" />
-    <MESSAGE value="exercícios feitos: 16, 17, 18, 19, 20, 21, 22&#10;exercícios otimizados: 1 , 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15" />
-    <MESSAGE value="exercícios feitos: 23, 24, 25, 26, 27, 28, 29, 20&#10;exercícios otimizados: 22" />
-    <MESSAGE value="exercícios feitos: 31, 32&#10;exercícios otimizados: 28, 29, 30&#10;mudou de local: ex45" />
-    <MESSAGE value="exercícios feitos: 33, 34, 35, 36, 37, 38, 39&#10;exercícios otimizados: 30, 31, 32" />
-    <MESSAGE value="exercícios feitos: 01, 02, 03, 04, 05&#10;exercícios otimizados: 39" />
-    <MESSAGE value="exercícios feitos: 06, 07, 08, 09, 10" />
-    <MESSAGE value="exercícios feitos: 11, 12, 13, 14, 15" />
-    <MESSAGE value="exercícios feitos: 16, 17, 18, 19 ,20" />
-    <MESSAGE value="exercícios otimizados: 20" />
-    <MESSAGE value="exercícios otimizados: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30" />
-    <MESSAGE value="exercícios otimizados: 31, 32, 33, 34, 35" />
-    <MESSAGE value="exercícios otimizados: 32, 33" />
-    <MESSAGE value="exercícios otimizados: 33, 34, 35" />
-    <MESSAGE value="exercícios feitos: 36, 37, 38, 39, 30&#10;exercícios otimizados: 34, 35" />
-    <MESSAGE value="exercícios otimizados: 38" />
-    <MESSAGE value="exercícios feitos: 41, 42, 43, 44, 45 &#10;exercícios otimizados: 38" />
-    <MESSAGE value="exercícios feitos: 46, 47, 48, 49, 50" />
-    <MESSAGE value="exercícios feitos: 51, 52, 53, 54, 55, 56, 57, 58, 59, 60" />
-    <MESSAGE value="exercícios feitos: 01, 02, 03&#10;exercícios otimizados: 60&#10;pastas renomeadas: aulas" />
-    <MESSAGE value="exercícios feitos: 04, 05, 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 04, 05, 06" />
   </component>
 </project>
