@@ -4,18 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="exercicios feitos: 14 ~ 29&#10;exercicios otimizados: 13">
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_coleções/ex39.py" afterDir="false" />
+    <list default="true" id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="exercicios feitos: 30 ~ 39">
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_coleções/parte2/ex10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios_coleções/parte1/ex02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex37.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex38.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercícios_coleções/ex39.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +107,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/exercícios_coleções/ex21.py" root0="SKIP_INSPECTION" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,15 +118,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ex38">
-    <configuration name="ex32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\PycharmProjects\guppe_curso\exercícios_coleções\parte1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex10">
+    <configuration name="ex06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções/parte2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex32.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/parte2/ex06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções/parte2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex35.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/parte2/ex07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções/parte2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex36.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/parte2/ex08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções/parte2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex37.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/parte2/ex09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercícios_coleções/parte2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/ex38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_coleções/parte2/ex10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex38" />
-        <item itemvalue="Python.ex37" />
-        <item itemvalue="Python.ex36" />
-        <item itemvalue="Python.ex35" />
-        <item itemvalue="Python.ex32" />
+        <item itemvalue="Python.ex10" />
+        <item itemvalue="Python.ex09" />
+        <item itemvalue="Python.ex08" />
+        <item itemvalue="Python.ex07" />
+        <item itemvalue="Python.ex06" />
       </list>
     </recent_temporary>
   </component>
@@ -206,11 +283,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676780450394</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercicios feitos: 30 ~ 39">
+      <created>1676784906232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676784906232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercicios feitos: 14 ~ 29&#10;exercicios otimizados: 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos: 14 ~ 29&#10;exercicios otimizados: 13" />
+    <MESSAGE value="exercicios feitos: 30 ~ 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos: 30 ~ 39" />
   </component>
 </project>
