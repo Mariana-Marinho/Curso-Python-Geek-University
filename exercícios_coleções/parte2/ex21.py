@@ -1,6 +1,6 @@
 """
 Ler duas matrizes 2x2, e botar um menu:
-1) somar as dduas matrizes
+1) somar as duas matrizes
 2) subtrair a primeira da segunda
 3) adicionar uma constante às duas matrizes
 4) imprimir as matrizes
@@ -30,14 +30,14 @@ while entrada != 5:
         print(f'\n\n soma das matrizes: ')
         for i in range(2):
             for j in range(2):
-                print(matriz_1[i][j] + matriz_2[j][i], end='   ')
+                print(matriz_1[i][j] + matriz_2[i][j], end='   ')
             print()
 
     elif entrada == 2:
         print(f'\n\n subtrair a primeira da segunda: ')
         for i in range(2):
             for j in range(2):
-                print(matriz_2[i][j] - matriz_1[j][i], end='   ')
+                print(matriz_2[i][j] - matriz_1[i][j], end='   ')
             print()
 
     elif entrada == 3:

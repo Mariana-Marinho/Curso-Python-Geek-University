@@ -22,6 +22,9 @@ Listas []
             print('a letra M não está no nome')
 
     - Comandos para usar na lista:
+        for indice, elemento in enumerate(lista)
+            retorna o indice e o elemento equivalente numa lista
+
         lista.sort() ou sorted(lista)
             vai ordenar em ordem crescente ou alfabética
 
