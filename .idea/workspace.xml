@@ -4,30 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="exercicios otimizados">
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex23.py" afterDir="false" />
+    <list default="true" id="96314395-9a5a-4ea1-92e2-b140b96f8d41" name="Changes" comment="exercicios feitos: 01 ~ 23">
+      <change afterPath="$PROJECT_DIR$/aula60_funcao_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercícios_funções/ex45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/score.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Lw5HmqQexBvQdqYFgxYsxSGdma" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,6 +65,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maria/Desktop/Game_P1_novo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -69,8 +75,8 @@
       <recent name="C:\Users\maria\PycharmProjects\guppe_curso\exercícios_coleções\parte1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex23">
-    <configuration name="ex19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex44">
+    <configuration name="ex39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex39.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex40.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\maria\PycharmProjects\guppe_curso\exercícios_funções\ex21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex41.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex43.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe_curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercícios_funções/ex44.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex23" />
-        <item itemvalue="Python.ex22" />
-        <item itemvalue="Python.ex20" />
-        <item itemvalue="Python.ex21" />
-        <item itemvalue="Python.ex19" />
+        <item itemvalue="Python.ex44" />
+        <item itemvalue="Python.ex43" />
+        <item itemvalue="Python.ex41" />
+        <item itemvalue="Python.ex40" />
+        <item itemvalue="Python.ex39" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682654047883</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="exercicios feitos: 01 ~ 23">
+      <created>1682921622368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682921622368</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +287,7 @@
     <MESSAGE value="exercicios feitos: 11 ~ 20 da parte 2" />
     <MESSAGE value="exercícios otimizados: 20 ~ 23" />
     <MESSAGE value="exercicios otimizados" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios otimizados" />
+    <MESSAGE value="exercicios feitos: 01 ~ 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos: 01 ~ 23" />
   </component>
 </project>
